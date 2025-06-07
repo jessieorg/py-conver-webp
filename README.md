@@ -1,5 +1,5 @@
 # py-conver-webp
 
-## 安装
+## 运行前需执行
 ```bash
-pip install Pillow 或者 pip3 install Pillow
+pip3 install Pillow
